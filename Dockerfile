@@ -1,5 +1,5 @@
 # Utiliser une image de base OpenJDK
-FROM eclipse-temurin:21-jdk
+FROM openjdk:26-ea-25-jdk-oraclelinux9
 
 
 # Créer un répertoire de travail
