@@ -1,5 +1,5 @@
 # Utiliser une image de base OpenJDK
-FROM openjdk:21-slim
+FROM openjdk:21-jdk-bullseye
 
 
 # Créer un répertoire de travail
