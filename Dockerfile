@@ -1,5 +1,5 @@
 # Utiliser une image de base OpenJDK
-FROM openjdk:21-jdk-bullseye
+FROM eclipse-temurin:21-jdk
 
 
 # Créer un répertoire de travail
